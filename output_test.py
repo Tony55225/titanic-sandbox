@@ -9,3 +9,5 @@ df = pd.DataFrame({
 # CSVファイルとして保存
 df.to_csv("output.csv", index=False)
 print("CSVファイルを出力しました！")
+
+# これはGit操作練習用のコメントです
